@@ -45,6 +45,9 @@ delphi package install
 【ViewError】:查看编译错误信息
 
 【Close】:关闭
+![Alt text](fastreport.jpg)
+
+![Alt text](tms.jpg)
 
 
 
