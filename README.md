@@ -3,28 +3,28 @@
 #### 介绍
 delphi package install
 
-#### 软件架构
-软件架构说明
+----------button menu 1-------------------
+【Search】:加载指定目录下包含指定字符串(例:*AAA*)的dpk文件
+【AddFile】:从批定位置一次添加一个dpk控件包
+【Close】:关闭
+【Tree】:树型按目录显示控件包
+【List】:按列表只显示控件包名称
+【Ver】:按版本方式显示控件包
+【AddDir】:从指定位置批量添加dpk控件包
+【About】:显示关于
+【Help】:显示帮助
+-----------button menu 2------------------
+【SaveTree】:保存左则树中选中的控件到ini文件
+【Compile】:只编译控件
+【unInstall】:从注册表卸载bpl控件
+【LoadMem】:从memo加载dpk列表
+【Install】:编译并安装控件
+【LoadINI】:从ini文件加载dpk列表
+【Stop】:停止
+【ClearLog】:清除下表中的所有日志
+【Close】:关闭
+【ViewError】:查看编译错误信息
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
 
 
 #### 特技
