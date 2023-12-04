@@ -1,6 +1,9 @@
 # DelphiInstallPackage
 
 #### 介绍
+
+永久免费使用,不开源
+
 delphi package install
 
 ----------button menu 1-------------------
