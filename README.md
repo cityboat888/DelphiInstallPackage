@@ -49,13 +49,39 @@ delphi package install
 
 ![Alt text](tms.jpg)
 
+![Alt text](all.jpg)
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+更新说明
+------------------------------------------
+Version 2.1.8749
+2.新增 IDE 菜单
+3.新增 memo 菜单
+4.新增 tree 菜单
+------------------------------------------
+Version 2.1.8745
+1.新增按钮 SaveAdd,保存左则树中选中的控件追加到ini文件
+2.新增配置:MSbuild,默认不使用MSbuild,因dproj中的DCC_UsePackage经常异常
+3.新增配置:MustHave,默认选中:查询结果文件名必须包含
+4.新增配置:AddLibBrows,
+5.新增配置:AddLibSearch
+7.新增三个IDE删除右键菜单:packagse,librarySerachpath/ibraryBrowsingpath
+8.新增三个IDE注册右键菜单:packagse,librarySerachpath/ibraryBrowsingpath
+
+
+------------------------------------------
+Version 2.x 2023
+1.new designed 
+2.new IDE PopupMenu
+3.new memo PopupMenu
+4.new tree PopupMenu
+5.compile Condition
+6.save/load ini file 
+7.save/load memo 
+8.add file/files 
+9.View Errors 
+
+------------------------------------------
+Version 1.x 2015
