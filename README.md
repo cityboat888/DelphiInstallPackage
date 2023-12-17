@@ -10,22 +10,39 @@ delphi package install
 
 ------------------------------------------
 1.归集目录BPL/DCP支持多个,用分号(;)分隔,首字母^表示不复制dcp
+
   例:D:\delphi\VCL\;^D:\delphi\VCL\bin;D:\delphi\VCL\VCL_DCP
+  
    D:\delphi\VCL\        -->复制bpl和dcp
+   
   ^D:\delphi\VCL\bin    -->只复制bpl   
+  
    D:\delphi\VCL\VCL_DCP -->复制bpl和dcp
+      
 2.部份Dev支持,如D6/D7版dev表格控件
+
 3.支持tms/fr/unidac等复杂组件
+
 4.对于比较复杂的组件,如果编译失败,
-  如dev/fr/unidac等可先【CopyFile】源代码归集后再安装  
+
+  如dev/fr/unidac等可先【CopyFile】源代码归集后再安装 
+  
 5.支持加载ini文件，加载memo
+
 6.支持保存选中package到ini文件，单个/多个追加保存ini文件
+
 7.支持单从此/多个添加，或按目录搜索
+
 8.可按memo单行/多行增加/删除package/librarySearchPath/libraryBrosingPath
+
 9.include搜索文件名，
+
 	空白代表*.dpk; 
+	
 	例：*280.dpk只输入：280
+	
 10.目录和include支持回车查询,
+
 
 ----------button menu 1-------------------
 
