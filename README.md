@@ -7,6 +7,7 @@
 delphi package install
 
 操作提示:
+
 ------------------------------------------
 1.归集目录BPL/DCP支持多个,用分号(;)分隔,首字母^表示不复制dcp
   例:D:\delphi\VCL\;^D:\delphi\VCL\bin;D:\delphi\VCL\VCL_DCP
